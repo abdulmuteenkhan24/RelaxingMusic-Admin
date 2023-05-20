@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +8,9 @@ namespace Blissful_Music
 {
    public class constants
     {
-        public static string FirebaseDBUrl = "https://relaxing-music-be846-default-rtdb.firebaseio.com/";
+        public static string FirebaseDBUrl = "You Firebase RTDB URL";
 
-        public static string FirebaseSTGUrl = "relaxing-music-be846.appspot.com";
+        public static string FirebaseSTGUrl = "Your Firbase storage Url ";
 
     }
 }
